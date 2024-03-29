@@ -1,2 +1,3 @@
+使用方法：
 按yxip.txt文件中例子格式在yxip.txt文件中添加已有的优选IP+端口#备注
 将raw地址添加到cloudflare的cm-proxy1的workers文件的addressapi中。
